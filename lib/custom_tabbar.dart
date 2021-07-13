@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class CustomTabbar extends StatelessWidget {
   final List<String> titles;
 
-  CustomTabbar({this.titles});
+  const CustomTabbar({required this.titles});
 
   @override
   Widget build(BuildContext context) {

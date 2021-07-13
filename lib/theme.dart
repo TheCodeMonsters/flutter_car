@@ -5,7 +5,8 @@ import 'package:supercharged/supercharged.dart';
 Color blueColor = "4B7BFA".toColor();
 Color purpleColor = "6055E7".toColor();
 Color redColor = "CF474C".toColor();
-Color blackColor = "221C1C".toColor();
+Color blackColor 
+= "221C1C".toColor();
 Color greyColor = "C7C7C7".toColor();
 Color greyColor2 = "F9F9F9".toColor();
 Color bulao = "F6FAFF".toColor();
